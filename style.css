@@ -105,12 +105,21 @@ img {
     padding-right: 3.5rem;
 }
 
+.functions li {
+    background-color: #4a044e;
+    color: white;
+    padding: .25rem .5rem .25rem .5rem;
+    border-radius: 1rem;
+    width: 4rem;
+    text-align: center;
+}
+
 ul {
     list-style-type: none;
 }
 
 .sidebar {
-    background-color: #701a75;
+    background-color: #4a044e;
     color: #fdf4ff;
     grid-row: 1 / 3;
 }
